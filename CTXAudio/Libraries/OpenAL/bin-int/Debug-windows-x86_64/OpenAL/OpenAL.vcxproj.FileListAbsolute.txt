@@ -1,0 +1,2 @@
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\bin\Debug-windows-x86_64\OpenAL\OpenAL.pdb
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\bin-int\Debug-windows-x86_64\OpenAL\OpenAL.pdb

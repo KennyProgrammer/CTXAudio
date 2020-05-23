@@ -1,0 +1,28 @@
+﻿  CTXAudio.cpp
+  alhelpers.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file Sources\CTXAudio.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file Sources\CTXAudio.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file Sources\CTXAudio.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file Sources\CTXAudio.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\minimp3\minimp3_ex.h(267,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file Sources\CTXAudio.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\minimp3\minimp3_ex.h(350,99): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file Sources\CTXAudio.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\minimp3\minimp3_ex.h(356,79): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file Sources\CTXAudio.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\minimp3\minimp3_ex.h(438,124): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file Sources\CTXAudio.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\minimp3\minimp3_ex.h(443,134): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file Sources\CTXAudio.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\minimp3\minimp3_ex.h(467,32): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data (compiling source file Sources\CTXAudio.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\minimp3\minimp3_ex.h(468,32): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data (compiling source file Sources\CTXAudio.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\minimp3\minimp3_ex.h(493,59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data (compiling source file Sources\CTXAudio.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\minimp3\minimp3_ex.h(511,79): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file Sources\CTXAudio.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\minimp3\minimp3_ex.h(571,99): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file Sources\CTXAudio.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\minimp3\minimp3_ex.h(665,127): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file Sources\CTXAudio.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\minimp3\minimp3_ex.h(823,29): warning C4244: '=': conversion from 'uint64_t' to 'int', possible loss of data (compiling source file Sources\CTXAudio.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\minimp3\minimp3_ex.h(880,40): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data (compiling source file Sources\CTXAudio.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\minimp3\minimp3_ex.h(910,141): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file Sources\CTXAudio.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\minimp3\minimp3_ex.h(919,76): warning C4244: 'argument': conversion from 'uint64_t' to 'int', possible loss of data (compiling source file Sources\CTXAudio.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\minimp3\minimp3_ex.h(937,45): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data (compiling source file Sources\CTXAudio.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\minimp3\minimp3_ex.h(938,37): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data (compiling source file Sources\CTXAudio.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\minimp3\minimp3_ex.h(949,44): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data (compiling source file Sources\CTXAudio.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Sources\CTXAudio.cpp(83,24): warning C4244: 'initializing': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+C:\CProjects\CTXAudio\CTXAudio\Sources\CTXAudio.cpp(123,18): warning C4244: 'initializing': conversion from '__int64' to 'uint32_t', possible loss of data
+C:\CProjects\CTXAudio\CTXAudio\Sources\CTXAudio.cpp(151,56): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  CTXAudio.vcxproj -> C:\CProjects\CTXAudio\CTXAudio\..\Build\bin\Debug-windows-x86_64\CTXAudio\lib\CTXAudio.lib

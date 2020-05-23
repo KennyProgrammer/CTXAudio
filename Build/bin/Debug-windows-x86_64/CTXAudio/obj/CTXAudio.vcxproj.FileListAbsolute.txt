@@ -1,0 +1,2 @@
+C:\CProjects\CTXAudio\Build\bin\Debug-windows-x86_64\CTXAudio\lib\CTXAudio.pdb
+C:\CProjects\CTXAudio\Build\bin\Debug-windows-x86_64\CTXAudio\obj\CTXAudio.pdb

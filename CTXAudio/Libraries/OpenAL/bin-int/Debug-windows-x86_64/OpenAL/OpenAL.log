@@ -1,0 +1,363 @@
+﻿  auxeffectslot.cpp
+  buffer.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\al\buffer.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\al\buffer.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\al\buffer.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\al\buffer.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\al\auxeffectslot.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\al\auxeffectslot.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\al\auxeffectslot.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\al\auxeffectslot.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\alu.h(148,3): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\al\buffer.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\effects\base.h(131,7): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\al\auxeffectslot.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\al\buffer.cpp(1099,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\al\buffer.cpp(1119,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\al\buffer.cpp(1140,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\al\buffer.cpp(1222,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\al\buffer.cpp(1296,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\al\buffer.cpp(1317,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\al\buffer.cpp(1345,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\al\buffer.cpp(1423,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\al\buffer.cpp(1547,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\al\buffer.cpp(1575,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\al\auxeffectslot.cpp(464,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\al\auxeffectslot.cpp(519,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\al\auxeffectslot.cpp(579,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\al\auxeffectslot.cpp(629,5): warning C4065: switch statement contains 'default' but no 'case' labels
+  effect.cpp
+  error.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\al\effect.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\al\effect.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\al\effect.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\al\effect.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\effects\base.h(131,7): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\al\effect.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\al\error.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\al\error.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\al\error.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\al\error.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\alu.h(148,3): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\al\error.cpp)
+  event.cpp
+  extension.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\al\extension.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\al\extension.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\al\extension.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\al\extension.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\al\event.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\al\event.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\al\event.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\al\event.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\alu.h(148,3): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\al\extension.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\alu.h(148,3): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\al\event.cpp)
+  filter.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\al\filter.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\al\filter.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\al\filter.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\al\filter.cpp)
+  listener.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\alu.h(148,3): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\al\filter.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\al\listener.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\al\listener.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\al\listener.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\al\listener.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\alu.h(148,3): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\al\listener.cpp)
+  source.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\al\listener.cpp(170,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\al\listener.cpp(193,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\al\listener.cpp(232,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\al\listener.cpp(348,5): warning C4065: switch statement contains 'default' but no 'case' labels
+  state.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\al\source.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\al\source.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\al\source.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\al\source.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\alu.h(148,3): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\al\source.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\al\state.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\al\state.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\al\state.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\al\state.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\alu.h(148,3): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\al\state.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\al\state.cpp(497,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\al\state.cpp(530,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\al\state.cpp(563,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\al\state.cpp(596,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\al\state.cpp(629,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\al\state.cpp(656,5): warning C4065: switch statement contains 'default' but no 'case' labels
+  alc.cpp
+  alconfig.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\alconfig.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\alconfig.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\alconfig.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\alconfig.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\alc.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\alc.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\alc.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\alc.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\effects\base.h(131,7): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\alc.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\logging.h(11,3): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\alconfig.cpp)
+  alu.cpp
+  ambdec.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\alu.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\alu.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\alu.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\alu.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\ambdec.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\ambdec.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\ambdec.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\ambdec.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\alu.h(148,3): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\alu.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\logging.h(11,3): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\ambdec.cpp)
+  base.cpp
+  dsound.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\backends\base.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\backends\base.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\backends\base.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\backends\base.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\backends\base.h(87,7): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\backends\base.cpp)
+  loopback.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\backends\dsound.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\backends\dsound.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\backends\dsound.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\backends\dsound.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\backends\base.h(87,7): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\backends\dsound.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\backends\loopback.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\backends\loopback.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\backends\loopback.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\backends\loopback.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\backends\base.h(87,7): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\backends\loopback.cpp)
+  null.cpp
+  wasapi.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\backends\null.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\backends\null.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\backends\null.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\backends\null.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\backends\base.h(87,7): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\backends\null.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\backends\wasapi.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\backends\wasapi.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\backends\wasapi.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\backends\wasapi.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\backends\base.h(87,7): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\backends\wasapi.cpp)
+  wave.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\backends\wave.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\backends\wave.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\backends\wave.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\backends\wave.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\backends\base.h(87,7): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\backends\wave.cpp)
+  winmm.cpp
+  bformatdec.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\backends\winmm.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\backends\winmm.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\backends\winmm.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\backends\winmm.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\backends\base.h(87,7): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\backends\winmm.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\bformatdec.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\bformatdec.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\bformatdec.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\bformatdec.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\alu.h(148,3): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\bformatdec.cpp)
+  bs2b.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\bs2b.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\bs2b.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\bs2b.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\bs2b.cpp)
+  converter.cpp
+  cpu_caps.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\converter.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\converter.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\converter.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\converter.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\alu.h(148,3): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\converter.cpp)
+  autowah.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\logging.h(11,3): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\cpu_caps.cpp)
+  chorus.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\effects\autowah.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\effects\autowah.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\effects\autowah.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\effects\autowah.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\effects\base.h(131,7): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\effects\autowah.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\effects\chorus.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\effects\chorus.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\effects\chorus.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\effects\chorus.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\effects\base.h(131,7): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\effects\chorus.cpp)
+  compressor.cpp
+  dedicated.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\effects\compressor.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\effects\compressor.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\effects\compressor.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\effects\compressor.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\effects\base.h(131,7): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\effects\compressor.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\effects\dedicated.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\effects\dedicated.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\effects\dedicated.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\effects\dedicated.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\effects\base.h(131,7): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\effects\dedicated.cpp)
+  distortion.cpp
+  echo.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\effects\distortion.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\effects\distortion.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\effects\distortion.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\effects\distortion.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\effects\echo.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\effects\echo.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\effects\echo.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\effects\echo.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\effects\base.h(131,7): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\effects\distortion.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\effects\base.h(131,7): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\effects\echo.cpp)
+  equalizer.cpp
+  fshifter.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\effects\equalizer.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\effects\equalizer.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\effects\equalizer.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\effects\equalizer.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\effects\fshifter.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\effects\fshifter.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\effects\fshifter.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\effects\fshifter.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\effects\base.h(131,7): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\effects\equalizer.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\effects\base.h(131,7): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\effects\fshifter.cpp)
+  modulator.cpp
+  pshifter.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\effects\modulator.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\effects\modulator.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\effects\modulator.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\effects\modulator.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\effects\base.h(131,7): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\effects\modulator.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\effects\pshifter.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\effects\pshifter.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\effects\pshifter.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\effects\pshifter.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\effects\base.h(131,7): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\effects\pshifter.cpp)
+  reverb.cpp
+  vmorpher.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\effects\reverb.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\effects\reverb.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\effects\reverb.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\effects\reverb.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\effects\vmorpher.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\effects\vmorpher.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\effects\vmorpher.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\effects\vmorpher.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\effects\base.h(131,7): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\effects\reverb.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\effects\base.h(131,7): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\effects\vmorpher.cpp)
+  biquad.cpp
+  nfc.cpp
+  splitter.cpp
+  fpu_ctrl.cpp
+  helpers.cpp
+  hrtf.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\hrtf.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\hrtf.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\hrtf.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\hrtf.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\helpers.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\helpers.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\helpers.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\helpers.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\logging.h(11,3): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\hrtf.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\hrtf.cpp(974,24): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\hrtf.cpp(1009,24): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\logging.h(11,3): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\helpers.cpp)
+  mastering.cpp
+  mixer_c.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\mixer\mixer_c.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\mixer\mixer_c.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\mixer\mixer_c.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\mixer\mixer_c.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\mastering.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\mastering.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\mastering.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\mastering.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\alu.h(148,3): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\mixer\mixer_c.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\alu.h(148,3): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\mastering.cpp)
+  mixer_sse.cpp
+  mixer_sse2.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\mixer\mixer_sse.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\mixer\mixer_sse.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\mixer\mixer_sse.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\mixer\mixer_sse.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\alu.h(148,3): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\mixer\mixer_sse.cpp)
+  mixer_sse3.cpp
+  mixer_sse41.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\mixer\mixer_sse2.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\mixer\mixer_sse2.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\mixer\mixer_sse2.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\mixer\mixer_sse2.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\alu.h(148,3): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\mixer\mixer_sse2.cpp)
+  panning.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\mixer\mixer_sse41.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\mixer\mixer_sse41.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\mixer\mixer_sse41.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\mixer\mixer_sse41.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\alu.h(148,3): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\mixer\mixer_sse41.cpp)
+  ringbuffer.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\panning.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\panning.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\panning.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\panning.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\ringbuffer.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\ringbuffer.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\ringbuffer.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\ringbuffer.cpp)
+  uhjfilter.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\effects\base.h(131,7): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\panning.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\panning.cpp(811,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\uhjfilter.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\uhjfilter.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\uhjfilter.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\uhjfilter.cpp)
+  uiddefs.cpp
+  voice.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\alc\voice.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\alc\voice.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\alc\voice.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\alc\voice.cpp)
+  alcomplex.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\alu.h(148,3): warning C5030: attribute 'gnu::format' is not recognized (compiling source file src\alc\voice.cpp)
+  alexcpt.cpp
+  alfstream.cpp
+  almalloc.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\common\almalloc.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\common\almalloc.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\common\almalloc.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\common\almalloc.cpp)
+  alstring.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\common\alfstream.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\common\alfstream.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\common\alfstream.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\common\alfstream.cpp)
+  bsinc_tables.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\common\alstring.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\common\alstring.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\common\alstring.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\common\alstring.cpp)
+  dynload.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\common\bsinc_tables.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\common\bsinc_tables.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\common\bsinc_tables.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\common\bsinc_tables.cpp)
+  polyphase_resampler.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\common\dynload.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\common\dynload.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\common\dynload.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\common\dynload.cpp)
+  strutils.cpp
+  threads.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized (compiling source file src\common\strutils.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized (compiling source file src\common\strutils.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized (compiling source file src\common\strutils.cpp)
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled (compiling source file src\common\strutils.cpp)
+  null.cpp
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,3): warning C5030: attribute 'gnu::alloc_align' is not recognized
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(16,24): warning C5030: attribute 'gnu::alloc_size' is not recognized
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(88,7): warning C5030: attribute 'gnu::assume_aligned' is not recognized
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\common\almalloc.h(95): message : see reference to class template instantiation 'al::allocator<T,alignment>' being compiled
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\effects\base.h(131,7): warning C5030: attribute 'gnu::format' is not recognized
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\effects\null.cpp(73,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\effects\null.cpp(81,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\effects\null.cpp(90,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\effects\null.cpp(98,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\effects\null.cpp(108,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\effects\null.cpp(116,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\effects\null.cpp(125,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\src\alc\effects\null.cpp(133,5): warning C4065: switch statement contains 'default' but no 'case' labels
+  OpenAL.vcxproj -> C:\CProjects\CTXAudio\CTXAudio\Libraries\OpenAL\bin\Debug-windows-x86_64\OpenAL\OpenAL.lib

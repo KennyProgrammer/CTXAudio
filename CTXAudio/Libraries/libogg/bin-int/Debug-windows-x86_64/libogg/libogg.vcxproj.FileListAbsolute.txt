@@ -1,0 +1,2 @@
+C:\CProjects\CTXAudio\CTXAudio\Libraries\libogg\bin\Debug-windows-x86_64\libogg\libogg.pdb
+C:\CProjects\CTXAudio\CTXAudio\Libraries\libogg\bin-int\Debug-windows-x86_64\libogg\libogg.pdb
