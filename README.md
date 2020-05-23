@@ -1,6 +1,6 @@
-# Hazel Audio
+# CTX Audio
 
-Hazel Audio is an audio library I wrote for the [Hazel Engine](https://hazelengine.com), built on top of [OpenAL Soft](https://openal-soft.org/). I've never written an audio library before so I figured I'd give it a shot, since I want to have a robust and powerful solution for Hazel.
+CTX Audio is an audio library I wrote for the [CTX Engine](https://github.com/KennyProgrammer/CTXEngine), built on top of [OpenAL Soft](https://openal-soft.org/). I've never written an audio library before so I figured I'd give it a shot, since I want to have a robust and powerful solution for CTX.
 
 This is the first version of the library that was written over a few hours, so there is a lot missing. I'll update this with information about various limitations as I go.
 
@@ -21,15 +21,15 @@ This is the first version of the library that was written over a few hours, so t
 I'm focusing on audio file streaming, seeking and unloading.
 
 ## Example
-Check out the `HazelAudio-Examples` project for more, but it's super simple:
+Check out the `CTXEngine-Examples` project for more, but it's super simple:
 ```cpp
 // Initialize the audio engine
-Hazel::Audio::Init();
+CTXEngine::Audio::Audio::Init();
 // Load audio source from file, bool is for whether the source
 // should be in 3D space or not
-auto source = Hazel::AudioSource::LoadFromFile(filename, true);
+auto source = CTXEngine::Audio::AudioSource::LoadFromFile(filename, true);
 // Play audio source
-Hazel::Audio::Play(source);
+CTXEngine::Audio::Audio::Play(source);
 ```
 and you can set various attributes on a source as well:
 ```cpp
